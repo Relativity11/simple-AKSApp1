@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: ghcr.io/${{ env.REPO_OWNER }}/simple-aksapp1:latest
+        image: ghcr.io/relativity11/simple-aksapp1:latest
         ports:
         - containerPort: 80
 ---
