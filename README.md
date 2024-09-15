@@ -1,2 +1,2 @@
-# simple-aksapp1
-Simple Test Application for a Kubernetes cluster using Flask.
+# simple-AKSApp1
+A simple application to test a kubernetes cluster with.
